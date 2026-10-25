@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Изучаю Prompt Engineering, LLM Applications и AI Automation. Создаю практические проекты на Python, экспериментирую с промтами, API и автоматизацией рабочих процессов.
+
 <!--
 **redsea1970/redsea1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
