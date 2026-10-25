@@ -1,18 +1,31 @@
-## Hi there 👋
+# Привет! Я изучаю Prompt Engineering и разработку AI-приложений
 
-Изучаю Prompt Engineering, LLM Applications и AI Automation. Создаю практические проекты на Python, экспериментирую с промтами, API и автоматизацией рабочих процессов.
+Изучаю способы проектирования промтов, работы с большими языковыми моделями (LLM) и автоматизации задач с помощью Python и API.
 
-<!--
-**redsea1970/redsea1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Мои направления
 
-Here are some ideas to get you started:
+- **Prompt Engineering** — разработка и тестирование промтов.
+- **LLM Applications** — создание приложений на основе языковых моделей.
+- **Python & API** — изучение интеграций и обработки данных.
+- **AI Automation** — автоматизация рабочих процессов с помощью n8n.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты в разработке
+
+| Проект | Описание | Статус |
+|---|---|---|
+| Prompt Engineering Lab | Эксперименты с промтами и оценка качества ответов | Планируется |
+| AI Review Intelligence | Анализ отзывов с помощью LLM | Планируется |
+| Telegram AI Equipment Assistant | ИИ-консультант в Telegram | Планируется |
+| LLM n8n Automation | Автоматизация LLM-процессов | Планируется |
+
+## Технологии
+
+Python · Git · GitHub · LLM API · n8n
+
+## Контакты
+
+- GitHub: https://github.com/redsea1970
+
+---
+
+*Портфолио формируется в процессе обучения. Проекты и результаты будут добавляться по мере готовности.*
